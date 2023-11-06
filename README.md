@@ -34,8 +34,13 @@ Why V7RCDOM?
 
 ![V7RCDOM Board PIN map](V7RCDOM-PIN@3x.png)
 
+開發方法：
 
-外觀照片
+1. 請下載與安裝Arduino IDE, 建議可以安裝到2.0以上版本。
+2. 使用FTDI連結V7RCDOM板。
+3. 選擇Arduino mini板。
+4. 選擇連接埠，如果在Windows下面可以檢查裝置管理員，如果在Mac環境可以選擇USB-Serial的介面。
+5. Compile and Upload.
 
 
 
