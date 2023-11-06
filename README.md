@@ -32,10 +32,7 @@ Why V7RCDOM?
 
 腳位圖
 
-
-
-
-
+![V7RCDOM Board PIN map](V7RCDOM-PIN@3x.png)
 
 
 外觀照片
