@@ -30,7 +30,7 @@ This repository is used for maker to develop and download the last FW for V7RCDO
 
 
 ## 腳位圖
-![V7RCDOM Board PIN map](V7RCDOM-PIN@3x.png)
+
 
 
 ## 開發方法：
