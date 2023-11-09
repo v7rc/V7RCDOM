@@ -31,7 +31,7 @@ This repository is used for maker to develop and download the last FW for V7RCDO
 
 ## 腳位圖
 
-![V7RCDOM Board PIN map](V7RCDOM-PIN@3x.png)
+![V7RCDOM Board PIN map](V7RCDOM-PIN.png)
 
 ## 開發方法：
 1. 請下載與安裝Arduino IDE, 建議可以安裝到2.0以上版本。
